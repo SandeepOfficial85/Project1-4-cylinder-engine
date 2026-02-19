@@ -11,11 +11,9 @@ This project is a detailed 3D model of a **4-Cylinder Internal Combustion Engine
 
 ## 👓 How to View
 You don't need SolidWorks to see this project! 
-1. Go to the **03_Viewer_Files** folder.
-2. Click on any **.STL** file.
+1. Click on any **.STL** file.
 3. Use your mouse to **rotate, zoom, and pan** the 3D model right in your browser!
 
 ## 📂 Repository Structure
 - **/01_Renders:** Photos of the finished parts.
-- **/02_Native_SolidWorks:** Original .SLDPRT and .SLDASM files.
-- **/03_Viewer_Files:** .STL files for browser-based 3D viewing.
+- **/02_Viewer_Files:** .STL files for browser-based 3D viewing.
